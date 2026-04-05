@@ -31,3 +31,5 @@ pip-selfcheck.json
 jvenv/*
 
 # End of https://www.toptal.com/developers/gitignore/api/venv,jupyternotebooks
+
+.vscode/*
